@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Battle of the Toronto Neighborhoods
+Toronto Neighborhood Project
